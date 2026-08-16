@@ -1,0 +1,6 @@
+{
+  "name": "متجر اليمن لمستلزمات الأسنان - Dental Store Yemen",
+  "description": "منصة إلكترونية متخصصة لتوريد وتوصيل أدوات ومستلزمات وأجهزة الأسنان لعيادات ومراكز الأسنان في اليمن",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
